@@ -20,7 +20,7 @@ Beschreibung des Projektes, kurz.
 > **Screenshot:**  
 > Zeige ein Bild aus deinem `images`-Order oder ein animiertes GIF
 
-![Demo](images/demo.gif)
+![Demo](pizza/demo.gif)
 
 ---
 
