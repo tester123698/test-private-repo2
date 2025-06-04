@@ -12,6 +12,7 @@ Beschreibung des Projektes, kurz.
 - Beispiel-Seiten für "Über mich", Projekte, Kontakt
 - Einfache Anpassung für eigene Inhalte
 - Inklusive Kontaktformular (funktional mit beliebigem Anbieter)
+- 👉 [Weitere Doku gibt es im Wiki!](../../wiki)
 
 ---
 
